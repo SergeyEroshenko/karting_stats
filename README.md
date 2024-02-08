@@ -2,3 +2,5 @@
 my karting results and its analysis
 
 ![alt text](images/results.png "Stats of lap times. Fisht 11 hp.")
+
+![alt text](images/mytable.png "Stats table of lap times. Fisht 11 hp.")
