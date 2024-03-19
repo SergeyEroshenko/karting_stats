@@ -12,3 +12,9 @@ my karting results and its analysis
 ![alt text](images/results_Fisht_11_hp.png "Stats of lap times. Fisht 11 hp.")
 
 ![alt text](images/stats_Fisht_11_hp.png "Stats table of lap times. Fisht 11 hp.")
+
+## Rimo Evo 6 on KartingClubPro Sirius
+
+![alt text](images/results_Fisht_9_hp.png "Stats of lap times. Fisht 9 hp.")
+
+![alt text](images/stats_Fisht_9_hp.png "Stats table of lap times. Fisht 9 hp.")
